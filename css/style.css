@@ -1,0 +1,37 @@
+body {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	background: #000;
+}
+.stranica {
+	background: #FFF;
+	width: 600px;
+	margin: auto;
+	padding: 25px;
+}
+header {
+	border-bottom: 3px dotted #ce29b5;
+	font-family: "Lucida Console", Monaco, monospace;
+	margin-bottom: 25px;
+}
+header h1 {
+	text-align: center;
+	color: #ce29b5;
+	font-size: 17px;
+	font-style: italic;
+}
+.sadrzaj p {
+	font-size: 16px;
+	color: #19c189;
+}
+img {
+	display: block;
+	margin: auto;
+}
+footer {
+	border-top: 3px dotted #ce29b5;
+	font-size: 14px;
+	color: #ce29b5;
+	text-align: center;
+	margin-top: 25px;
+	font-style: italic;
+}
